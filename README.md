@@ -1,5 +1,4 @@
-Project Description
-This scala project dynamically creates ecoommerce order's data and stores it into HDFS and in a Hive table for procesing.
+This scala project dynamically creates ecommerce order's data and stores it into HDFS and in a Hive table for procesing.
 
 Technologies Used
 -Scala - version 2.11.8
